@@ -292,3 +292,4 @@ A tener en cuenta:
   las peticiones tarden algo más y consigamos menos RPS (Peticiones por segundo).
 # EGC-1230-gabgutpri
 # EGC-1230-gabgutpri
+# EGC-1230-gabgutpri
