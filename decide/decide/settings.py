@@ -73,8 +73,17 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'https://egc-1230-gabgutpri.herokuapp.com/'
-APIS = {}
+BASEURL = 'https://egc-1230-gabgutpri.herokuapp.com'
+APIS = {
+    'authentication': BASEURL ,
+    'base': BASEURL ,
+    'booth': BASEURL ,
+    'census': BASEURL ,
+    'mixnet': BASEURL ,
+    'postproc': BASEURL ,
+    'store': BASEURL ,
+    'visualizer': BASEURL ,
+    'voting': BASEURL ,}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
