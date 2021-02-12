@@ -291,3 +291,4 @@ A tener en cuenta:
 * Si hacemos las pruebas en local, donde tenemos activado el modo debug de Django, lo normal es que
   las peticiones tarden algo más y consigamos menos RPS (Peticiones por segundo).
 # EGC-1230-gabgutpri
+# EGC-1230-gabgutpri
